@@ -2,7 +2,7 @@
     background-color:rgb(125, 204, 228)
 }
 .main{
-    text-decoration: underline;
+    text-decoration: underline ;
     color:rgba(0, 0, 0, 0.959)
 }
 .t1{
@@ -16,4 +16,5 @@
 }
 .t4{
     background-color: rgb(196, 85, 94);
+
 }
