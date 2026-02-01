@@ -18,3 +18,11 @@
     background-color: rgb(196, 85, 94);
 
 }
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 12px 20px;
+}
+
